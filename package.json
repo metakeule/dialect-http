@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "connect": "1.8.6",
-	"dialect": "https://github.com/ygaras/dialect/tarball/master",
+    "dialect": "git://github.com/metakeule/dialect.git#master",
     "connect-auth": "0.5.1",
     "colors": "0.5.0",
     "express": "2.5.0",
